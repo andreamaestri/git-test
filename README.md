@@ -1,3 +1,3 @@
 # git-test
-#My first time following the Odin Project! 
-##Hello Odin!
+## My first time following the Odin Project! 
+### Hello Odin!
